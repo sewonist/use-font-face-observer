@@ -1,7 +1,7 @@
 {
   "name": "use-font-face-observer",
   "description": "React hook to detect if web fonts are available 🪝",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "license": "MIT",
   "repository": "https://github.com/iamskok/use-font-face-observer",
   "author": "Vladimir Skok",
@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "fontfaceobserver": "2.1.0",
-    "react": "17.0.2"
+    "react": "^18.2.0"
   },
   "devDependencies": {
     "@commitlint/cli": "15.0.0",
